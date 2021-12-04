@@ -1,15 +1,22 @@
-### Hi there 👋
 
 ## 
 
-![header](https://capsule-render.vercel.app/api?type=soft&&color=timeAuto&height=300&section=header&text=Jeewon%20Koo&fontSize=65&fontAlignY=45&desc=CS@UIUC&descAlign=50&descAlignY=67&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&&color=timeAuto&height=200&section=header&text=Jeewon%20Koo&fontSize=65&fontAlignY=45&desc=Computer+Science+@+University+of+Illinois+Urbana+Champaign&descAlign=50&descAlignY=67&animation=twinkling)
 
 
-## Tech 
-:computer:
+## 
 <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkoo&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) \
+	:information_desk_person: About Me :information_desk_person:
+
+  \
+	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeewonkoo/)
+</div>
+
+## 
+<div align=center>
+	:computer: Tech :computer:
+
+  \
 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 \
 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -17,9 +24,9 @@
 	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </div>
 
-## Total 
+## 
 
 <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkoo&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ 
+  :sparkles: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkoo&count_bg=%23FF7B00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) :sparkles:
 </div>
