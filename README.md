@@ -12,10 +12,11 @@
 <div align=center>
 	:raised_hands: About Me :raised_hands:
 
-  \
+  \	
+	[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://jeewonkoo.me)
 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeewonkoo/) 
 	[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jeewonkoo@gmail.com)
-	[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](jeewonkoo.me)
+	
 	
 </div>
 
